@@ -31,7 +31,7 @@ public class Joueur {
 		super();
 		compteur++;
 		this.id=compteur;
-		this.nom=nom;3
+		this.nom=nom;
 		this.vie=vie;
 	}
 	
